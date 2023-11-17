@@ -9,8 +9,12 @@ npm create astro@latest -- --template portfolio
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# DARK MODE🌙
+![image](https://github.com/syntaxboybe/portfolio/assets/113691000/b585d819-3d35-403f-8356-8ab09d23085d)
 
-![portfolio](https://user-images.githubusercontent.com/boybe.PNG)
+# LIGHT MODE☀️
+![image](https://github.com/syntaxboybe/portfolio/assets/113691000/c0571e15-a9fa-4a71-9946-6be43d6a9a18)
+
 
 ## 🧞 Commands
 
