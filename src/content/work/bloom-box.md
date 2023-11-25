@@ -1,23 +1,47 @@
 ---
-title: Bloom Box
+title: Sea-Cucumber-Machine-Learning-Web-App
 publishDate: 2019-12-01 00:00:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Different Types of Sea Cucumber in MSU NAAWAN. Sea Cucumbers are remarkable creatures that play a significant role in marine ecosystems.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Developement
+  - Marine Life
+  - Education
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Sea cucumbers are marine animals that belong to the class Holothuroidea.
+They are echinoderms, related to starfish and sea urchins. Sea cucumbers are found in
+oceans around the world, from shallow coastal waters to deep-sea environments.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Below are the different types of Sea Cucumber:
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+**Holothuria Atra**
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Holothuria atra, also known as the black sea cucumber or lollyfish, is a common and widespread species found in tropical and subtropical Indo-Pacific waters. Its body is cylindrical and leathery, with a smooth, black skin that is often covered in sand or debris. It has 20 retractable tentacles surrounding its mouth, which it uses to feed on detritus and small organisms.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+**Holothuria Scabra**
+
+Holothuria scabra, commonly known as sandfish, is a species of sea cucumber in the family Holothuriidae. It is a commercially important species, harvested and processed into "beche-de-mer" and eaten in China and other Pacific coastal communities. Sandfish are found in shallow waters, rarely in depths of more than 10 meters. They are typically found on inner reef flats of fringing and lagoon-islets reefs, coastal areas under terrigenous influence, and near mangroves.
+
+**Royal Cucumber**
+
+Parastichopus regalis, also known as the royal sea cucumber, is a species of sea cucumber in the family Stichopodidae.
+
+**Apotichupus janponicus**
+
+Apostichopus japonicus is a species of sea cucumber in the family Stichopodidae. It is found in shallow temperate waters along the coasts of south east Asia and is commonly known as the Japanese spiky sea cucumber or the Japanese sea cucumber.
+
+**Holothuria Tubulosa**
+
+Holothuria tubulosa, also known as the cotton-spinner. It's known for its ability to change skin color and texture, and its hermaphroditic reproductive system.
+
+**Our development journey into the captivating world of sea cucumbers!**
+
+In the pursuit of scientific understanding and hands-on exploration, IT4-B has delved into the depths of marine biology to unravel the mysteries surrounding these fascinating creatures. As part of our subject experiment, we have immersed ourselves in the study of sea cucumbers, aiming to contribute valuable insights to the broader understanding of marine ecosystems.
+
+**Want to contribute on this project?**
+
+**🤝 Github Repository:**
+<https://github.com/2023-ITD109-ITB/Web-App-MLIM_Seacucumber-LC>
