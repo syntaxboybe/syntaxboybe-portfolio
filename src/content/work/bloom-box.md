@@ -6,7 +6,7 @@ img_alt: A bright pink sheet of paper used to wrap flowers curves in front of ri
 description: |
   Different Types of Sea Cucumber in MSU NAAWAN. Sea Cucumbers are remarkable creatures that play a significant role in marine ecosystems.
 tags:
-  - Developement
+  - Development
   - Marine Life
   - Education
 ---

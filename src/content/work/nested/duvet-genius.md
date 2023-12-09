@@ -7,7 +7,7 @@ description: |
   A simplified voting system made for hackathon tabulation.
 tags:
   - Productivity
-  - Developement
+  - Development
   - Innovation
 ---
 
